@@ -1,1 +1,2 @@
 Merhaba GitHub, bu benim ilk denemem
+Ikinci satir: Branch testi yapildi
